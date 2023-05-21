@@ -1,0 +1,1 @@
+select Count(*) from EventBookings where EventType like 'Wedding%';

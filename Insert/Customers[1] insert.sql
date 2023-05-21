@@ -1,0 +1,16 @@
+INSERT INTO Customer (CustomerID, FirstName, LastName, Email, PhoneNumber, Address, City, State, ZipCode) VALUES
+(1, 'John', 'Doe', 'johndoe@example.com', '555-1234', '123 Main St', 'Anytown', 'CA', '12345'),
+(2, 'Jane', 'Smith', 'janesmith@example.com', '555-5678', '456 Elm St', 'Anycity', 'TX', '67890'),
+(3, 'Bob', 'Johnson', 'bobjohnson@example.com', '555-9012', '789 Oak St', 'Anywhere', 'FL', '34567'),
+(4, 'Mary', 'Jones', 'maryjones@example.com', '555-3456', '234 Maple St', 'Anyville', 'NY', '89012'),
+(5, 'Mike', 'Williams', 'mikewilliams@example.com', '555-7890', '567 Pine St', 'Anystate', 'WA', '45678'),
+(6, 'Karen', 'Brown', 'karenbrown@example.com', '555-2345', '890 Cedar St', 'Anycity', 'IL', '12345'),
+(7, 'Tom', 'Davis', 'tomdavis@example.com', '555-6789', '123 Walnut St', 'Anytown', 'MI', '67890'),
+(8, 'Susan', 'Garcia', 'susangarcia@example.com', '555-0123', '456 Oak St', 'Anycity', 'OH', '34567'),
+(9, 'David', 'Lee', 'davidlee@example.com', '555-4567', '789 Maple St', 'Anywhere', 'PA', '89012'),
+(10, 'Lisa', 'Martinez', 'lisamartinez@example.com', '555-8901', '234 Cedar St', 'Anyville', 'GA', '45678'),
+(11, 'Mark', 'Taylor', 'marktaylor@example.com', '555-2345', '567 Pine St', 'Anystate', 'NC', '12345'),
+(12, 'Julie', 'Hernandez', 'juliehernandez@example.com', '555-6789', '890 Walnut St', 'Anytown', 'VA', '67890'),
+(13, 'Kevin', 'Young', 'kevinyoung@example.com', '555-0123', '123 Maple St', 'Anycity', 'NJ', '34567'),
+(14, 'Emily', 'Allen', 'emilyallen@example.com', '555-4567', '456 Cedar St', 'Anywhere', 'MA', '89012'),
+(15, 'Adam', 'Brown', 'adambrown@example.com', '555-8901', '789 Oak St', 'Anycity', 'KY', '45678');

@@ -1,0 +1,16 @@
+INSERT INTO EventBookings (EventBookingID, CustomerID, EventType, EventDate, NumberOfAttendees, RoomID, TotalCost) VALUES
+(1, 1, 'Wedding', '2022-07-15', 100, 6, 4000.00),
+(2, 2, 'Business Meeting', '2022-08-01', 50, 3, 1500.00),
+(3, 3, 'Conference', '2022-09-10', 200, 5, 8000.00),
+(4, 4, 'Birthday Party', '2022-10-15', 20, 2, 500.00),
+(5, 5, 'Baby Shower', '2022-11-20', 30, 4, 1000.00),
+(6, 6, 'Wedding Anniversary', '2022-12-05', 50, 6, 2000.00),
+(7, 7, 'Graduation Party', '2023-01-15', 75, 1, 3000.00),
+(8, 8, 'Business Meeting', '2023-02-20', 30, 3, 1000.00),
+(9, 9, 'Conference', '2023-03-30', 150, 5, 6000.00),
+(10, 10, 'Birthday Party', '2023-04-05', 10, 2, 250.00),
+(11, 11, 'Baby Shower', '2023-05-10', 20, 4, 500.00),
+(12, 12, 'Wedding Anniversary', '2023-06-15', 50, 6, 2000.00),
+(13, 13, 'Graduation Party', '2023-07-20', 100, 1, 4000.00),
+(14, 14, 'Business Meeting', '2023-08-25', 40, 3, 1500.00),
+(15, 15, 'Conference', '2023-09-30', 250, 5, 10000.00);

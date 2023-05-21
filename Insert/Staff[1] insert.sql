@@ -1,0 +1,16 @@
+INSERT INTO Staff (StaffID, FirstName, LastName, Email, PhoneNumber, Position, HireDate, Salary) VALUES
+(1, 'John', 'Smith', 'johnsmith@example.com', '555-1234', 'Manager', '2020-01-01', 60000.00),
+(2, 'Jane', 'Doe', 'janedoe@example.com', '555-5678', 'Receptionist', '2020-02-01', 35000.00),
+(3, 'Bob', 'Johnson', 'bobjohnson@example.com', '555-9012',  'Staff', '2020-03-01', 40000.00),
+(4, 'Mary', 'Williams', 'marywilliams@example.com', '555-3456', 'Housekeeping', '2020-04-01', 30000.00),
+(5, 'Mike', 'Jones', 'mikejones@example.com', '555-7890', 'Maintenance', '2020-05-01', 35000.00),
+(6, 'Karen', 'Garcia', 'karengarcia@example.com', '555-2345', 'Chef', '2020-06-01', 50000.00),
+(7, 'Tom', 'Lee', 'tomlee@example.com', '555-6789', 'Waitstaff', '2020-07-01', 25000.00),
+(8, 'Susan', 'Martinez', 'susanmartinez@example.com', '555-0123', 'Bartender', '2020-08-01', 30000.00),
+(9, 'David', 'Taylor', 'davidtaylor@example.com', '555-4567', 'Housekeeping', '2020-09-01', 30000.00),
+(10, 'Lisa', 'Hernandez', 'lisahernandez@example.com', '555-8901', 'Waitstaff', '2020-10-01', 25000.00),
+(11, 'Mark', 'Brown', 'markbrown@example.com', '555-2345', 'Maintenance', '2020-11-01', 35000.00),
+(12, 'Julie', 'Young', 'julieyoung@example.com', '555-6789', 'Receptionist', '2020-12-01', 35000.00),
+(13, 'Kevin', 'Allen', 'kevinallen@example.com', '555-0123', 'Manager', '2021-01-01', 70000.00),
+(14, 'Emily', 'Davis', 'emilydavis@example.com', '555-4567', 'Chef', '2021-02-01', 50000.00),
+(15, 'Adam', 'Garcia', 'adamgarcia@example.com', '555-8901', 'Bartender', '2021-03-01', 30000.00);

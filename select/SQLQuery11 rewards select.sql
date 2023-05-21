@@ -1,0 +1,1 @@
+select * from RewardsProgram where RewardsLevel = 'Bronze';
